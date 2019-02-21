@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">3dOrientation</string>
+    <string name="title_activity_calibrate">Calibrate</string>
+</resources>
