@@ -9,5 +9,6 @@ public class Calibrate extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calibrate);
+        int test = 5;
     }
 }
