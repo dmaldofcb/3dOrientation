@@ -20,7 +20,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#000000	"
-        android:text="Place phone in a flat surface, in the orientation shown in the picture below" />
+        android:padding="10dp"
+        android:text="Place phone in a flat surface, in the orientation shown in the picture below, we will perform single point calibration." />
 
     <ImageView
         android:id="@+id/phone"
@@ -29,7 +30,7 @@
         android:src="@drawable/phon2" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/start_cal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Start Calibration" />
